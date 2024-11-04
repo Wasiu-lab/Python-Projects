@@ -8,8 +8,8 @@ A Python script that organizes files in a specified folder by moving them into s
 - Case-insensitive matching for file extensions.
 
 # Processes
-![Project Screenshot](Automatic-File-Explorer-Sorter/Images/1.PNG)
-Referencing the picture above this how the folder looks like before the python program was written to sort each file into a categorized order. Below are the steps to follow  
+[Project Screenshot](Images/1.PNG)
+Referring to the picture above, the folder looks like it was before the Python program was written to sort each file into a categorized order. Below are the steps to follow  
 
 # Step-by-Step Process
 
