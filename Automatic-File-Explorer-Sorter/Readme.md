@@ -8,7 +8,7 @@ A Python script that organizes files in a specified folder by moving them into s
 - Case-insensitive matching for file extensions.
 
 # Processes
-![Project Screenshot](Imges/1.PNG)
+![Project Screenshot](Automatic-File-Explorer-Sorter/Images/1.PNG)
 Referencing the picture above this how the folder looks like before the python program was written to sort each file into a categorized order. Below are the steps to follow  
 
 # Step-by-Step Process
@@ -73,7 +73,9 @@ shutil.move(path + file, path + "target_folder/" + file)
 Step 4: Complete the Organization
 
 8. Once all files have been moved to their respective folders, the script finishes its run, leaving the directory organized with subfolders for each file type.
-![image](Imges/4.PNG)
+
+![image](Automatic-File-Explorer-Sorter/Images/4.PNG)
+
 Final image compare to what we had after running the codes
 Code
 
