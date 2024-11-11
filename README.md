@@ -7,7 +7,7 @@ Welcome to my **Python Projects Repository**! This repository is a collection of
 ### 1. [File Explorer Sorter](Automatic-File-Explorer-Sorter)
    - **Description**: This Python script organizes files in a folder by sorting them into subfolders based on file type, creating folders as needed. It keeps directories clean and easy to navigate.
    - **Technologies**: List of technologies or libraries used OS and Shutil.
-### 2. [File Explorer Sorter](Web-Scraping-Projects)
+### 2. [Web Scraping Project](https://github.com/Wasiu-lab/Python-Projects/tree/main/Web%20Scraping%20Projects)
    - **Description**: This Python script organizes files in a folder by sorting them into subfolders based on file type, creating folders as needed. It keeps directories clean and easy to navigate.
    - **Technologies**: List of technologies or libraries used OS and Shutil.
 
